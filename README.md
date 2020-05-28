@@ -18,7 +18,7 @@
 2. Create .env and set values based on .env.example
 3. Open your XAMPP / LAMPP , and create table teravin
 4. Click this <a href="https://drive.google.com/file/d/1IoXtdwomTzTLYv-G3Vsu41PdA8AD5_us/view?usp=sharing/">Link<a/> to download postman Collection
-5. export this file to your postman.
+5. export that file to your postman.
 6. Open app's directory in CMD or Terminal
 7. Type `npm install`
 8. Type `npm start`
